@@ -7,17 +7,22 @@
 Desarrollar una API para explorar el mundo de Disney, la cual permitirá conocer y modificar los personajes que lo componen y entender en qué películas estos participaron. Por otro lado, deberá exponer la información para que cualquier frontend pueda consumirla.
 
 👉 Utilizar NodeJs y Express.
+
 ![image](https://user-images.githubusercontent.com/51338520/204174620-5a0384a6-ce11-4d95-8c11-f0643f19e1d9.png)
+
 👉 No es necesario armar el Frontend.
 
 👉 Las rutas deberán seguir el patrón REST.
+
 ![image](https://user-images.githubusercontent.com/51338520/204174806-4ac83909-910a-40ad-be69-87afbdce1415.png)
 
-
 👉 Utilizar la librería Prisma.
+
 ![image](https://user-images.githubusercontent.com/51338520/204174699-44233dc3-cb21-4d29-b2ff-fa762686dac2.png)
 
+
 ![image](https://user-images.githubusercontent.com/51338520/204174765-749f55ee-86e0-4b4a-897c-25c95e02740d.png)
+
 
 
 ⚠️ ¡No es indispensable hacer todo!
